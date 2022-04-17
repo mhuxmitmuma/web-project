@@ -1,0 +1,15 @@
+.u {
+    text-decoration: underline;
+}
+h2 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.caption {
+    color: navy;
+    text-align: left;
+    font-size: 20px;
+}
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+}
